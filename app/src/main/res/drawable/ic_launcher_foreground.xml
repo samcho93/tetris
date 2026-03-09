@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="108dp"
+    android:height="108dp"
+    android:viewportWidth="108"
+    android:viewportHeight="108">
+
+    <!-- T-piece shape as a simple tetris icon -->
+    <path
+        android:fillColor="#00D4FF"
+        android:pathData="M30,40 L50,40 L50,30 L60,30 L60,50 L50,50 L50,60 L40,60 L40,50 L30,50 Z" />
+    <path
+        android:fillColor="#00F000"
+        android:pathData="M60,50 L70,50 L70,60 L80,60 L80,70 L60,70 Z" />
+    <path
+        android:fillColor="#F0A000"
+        android:pathData="M30,60 L50,60 L50,80 L30,80 Z" />
+    <path
+        android:fillColor="#F00000"
+        android:pathData="M50,60 L60,60 L60,70 L70,70 L70,80 L50,80 Z" />
+</vector>
